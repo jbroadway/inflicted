@@ -15,8 +15,8 @@
 
 Homepage:
 
-![](http://github.com/jbroadway/inflicted/raw/master/inflicted/screenshot-index.png)
+![](http://github.com/jbroadway/inflicted/raw/master/screenshot-index.png)
 
 Inner pages:
 
-![](http://github.com/jbroadway/inflicted/raw/master/inflicted/screenshot-inner.png)
+![](http://github.com/jbroadway/inflicted/raw/master/screenshot-inner.png)
